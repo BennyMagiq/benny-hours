@@ -1,11 +1,9 @@
 # Benny Hours
 
-Personal iPhone-friendly hours tracker. Records stay in your browser; export backups regularly.
+Personal iPhone-friendly shift tracker with breaks, job totals, estimated pay, employer comparison, CSV exports and JSON backups.
 
-## Publish
-In Settings → Pages, choose Deploy from a branch, main, / (root), then Save.
+Publish: Settings → Pages → Deploy from a branch → main → / (root) → Save.
 
-## iPhone
-Open the published site in Safari → Share → Add to Home Screen.
+On iPhone: open the published site in Safari → Share → Add to Home Screen.
 
-The GitHub Pages copy uses separate browser storage from the ChatGPT-hosted copy. Transfer existing records using Download backup and Restore backup.
+Records stay in this browser. Download backups regularly. To transfer records from the ChatGPT-hosted version, download a backup there and restore it here.
